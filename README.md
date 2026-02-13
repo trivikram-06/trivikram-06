@@ -1,4 +1,4 @@
-# Hi 👋 I'm Trivikram
+# Hi 👋 I'm Trivikram A
 
 🚀 Passionate Full Stack Developer  
 💻 Strong in Java, DSA & Problem Solving  
