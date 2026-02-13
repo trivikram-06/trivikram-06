@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Trivikram
 
-<!--
-**trivikram-06/trivikram-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Full Stack Developer  
+💻 Strong in Java, DSA & Problem Solving  
+🌱 Currently learning System Design & Advanced Backend  
+🏆 LeetCode Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Java
+- HTML, CSS, JavaScript
+- Git & GitHub
+- MySQL
+- Data Structures & Algorithms
+
+---
+
+## 📌 Featured Projects
+- 🛒 Smart Grocery Platform – Recipe-based shopping automation
+- 📋 Todo List App – Task management system
+- 📝 Blog Website – Dynamic blogging UI
+
+---
+
+## 📊 GitHub Stats
+![Trivikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivikram-06&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/trivikram-a-724572279
