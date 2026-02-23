@@ -59,8 +59,21 @@
 
 ---
 
+## 🔥 Coding Profiles
+- 💡 LeetCode: (Add your link)
+- 🧠 HackerRank: (Add your link)
+- 🌍 Portfolio: (Add later if you build one)
+
+---
+
 ## 📊 GitHub Stats
-![Trivikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivikram-06&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trivikram-06&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=trivikram-06&layout=compact&theme=radical)
+
+---
+
 
 ---
 
